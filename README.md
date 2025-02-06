@@ -1,7 +1,5 @@
 # Resume Categorization
 
-[![Resume Categorization](CreatingaPhysicianCVthatShines.jpg)]()
-
 ## Overview
 
 This project addresses the challenge of automating resume categorization using machine learning and deep learning techniques.  The goal is to streamline the recruitment process by predicting the most appropriate job category for a given resume, saving recruiters valuable time and resources.
